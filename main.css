@@ -334,11 +334,10 @@ main {
   display: flex;
   flex-direction: column;
   justify-content: center;
-  font-size: .4em;
 }
 
 .social-link-facebook {
-  top: 400px;
+  top: 460px;
   left: 15px;
   display: flex;
   flex-direction: column;
@@ -419,11 +418,10 @@ main {
     top: 170px;
     left: 10px;
     min-height: 150px;
-    font-size: .65em;
   }
 
   .social-link-facebook {
-    top: 350px;
+    top: 430px;
     left: 10px;
     min-height: 150px;
   }
