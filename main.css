@@ -282,14 +282,14 @@ main {
   padding-right: 10px;
 }
 
-.winner__photo {
+.winner-photo {
   width: 30%;
   border: 10px solid #fff;
   border-radius: 15px;
   z-index: 1;
 }
 
-.winner__photo-image {
+.winner-photo__image {
   width: 100%;
   display: block;
 }
